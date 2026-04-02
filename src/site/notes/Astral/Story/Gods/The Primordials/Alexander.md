@@ -16,6 +16,7 @@ Consumed by his quest to preserve history, he vanished into its depths, swallowe
 
 # Personal Life
 White Clear Quartz
+
 --- end-column ---
 
 <html>
@@ -75,6 +76,12 @@ White Clear Quartz
 	          <li>Brown</li>
           </ul>
         </div>
+        <div class="infobox-datarow">
+          <p class="data-heading">Skin Color</p>
+          <ul class="data-content">
+	          <li>Brown</li>
+          </ul>
+        </div>
       </div>
     </div>
     <div class="infobox-group">
@@ -110,7 +117,7 @@ White Clear Quartz
         <div class="infobox-datarow">
           <p class="data-heading">Birthstone</p>
           <ul class="data-content">
-	          <li>Green Emerald</li>
+	          <li>White Clear Quartz</li>
           </ul>
         </div>
       </div>

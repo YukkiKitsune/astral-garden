@@ -20,12 +20,13 @@ The village outcast of a remote mountain village. A troublemaker with a scientis
 # Personal Life
   Princess of the group, treated this was as she was the last to come around thusly treated as the baby of the group, a bit spoiled by them -  bratty
 Purple Sugilite
+
 --- end-column ---
 
 <html>
 <div class="infobox">
     <div class="heading">
-      <h2>Alma</h2>
+      <h2>Saar</h2>
     </div>
     <img src="https://i.pinimg.com/564x/cb/68/e5/cb68e5968779fa29d00eee3401caa0cc.jpg" class="infobox-img"
       alt="infobox picture">
@@ -87,9 +88,9 @@ Purple Sugilite
       </div>
       <div class="infobox-data">
 	    <div class="infobox-datarow">
-          <p class="data-heading">Nation</p>
+          <p class="data-heading">Likes</p>
           <ul class="data-content">
-	          <li>Country</li>
+	          <li>XXXX</li>
           </ul>
         </div>
         <div class="infobox-datarow">
@@ -114,7 +115,7 @@ Purple Sugilite
         <div class="infobox-datarow">
           <p class="data-heading">Birthstone</p>
           <ul class="data-content">
-	          <li>Green Emerald</li>
+	          <li>Purple Sugilite</li>
           </ul>
         </div>
       </div>
@@ -122,7 +123,7 @@ Purple Sugilite
         <div class="infobox-datarow">
           <p class="data-heading">Color</p>
           <ul class="data-content">
-	          <li>Green</li>
+	          <li>Purple</li>
           </ul>
         </div>
       </div>

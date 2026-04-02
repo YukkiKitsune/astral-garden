@@ -16,3 +16,6 @@
 ## Unused Characters
 - Tawny - Farmer, Owlin Druid 
 - Goober - Entertainer, Fairy Bard 
+
+
+# [[Astral/Deities\|Deities]]

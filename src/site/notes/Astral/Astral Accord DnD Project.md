@@ -19,3 +19,4 @@
 
 
 # [[Astral/Deities\|Deities]]
+Also see [[Astral/Story/Gods/Their Divine/Deities Project\|Deities Project]]

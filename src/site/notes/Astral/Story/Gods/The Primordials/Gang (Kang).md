@@ -13,17 +13,11 @@ shadow: off
 # Overview
 Driven by a fascination with life after death, a curious young elf witnessed mortality frequently, outliving all those he encountered. He was a lover of new experiences and travel, often lost in thought as he pondered the mysteries of the world.
 
+
+# Early Life
 When they had opened their eyes they no longer saw their physical body, they couldn't even see anything, they opened their eyes to panic and fear, unknowing what happened to their body. Then they close their eyes and see their final moments playing in their mind, unsure of anything some thought of this as the after life and began to dream some began to remember, and some began to miss their old selves eventually leading to the first one to being able to make their body again
 
-"would you consider yourself god if you had the power to create life?”
 
-2nd comes with body after 3rd appears
-
-4th has no memories
-
-Apothecary  
-She was good at trying to get the group
-# Early Life
 # Personal Life
 
 --- end-column ---

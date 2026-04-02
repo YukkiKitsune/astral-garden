@@ -15,7 +15,7 @@ Consumed by his quest to preserve history, he vanished into its depths, swallowe
 # Pre-Ascension
 
 # Personal Life
-
+White Clear Quartz
 --- end-column ---
 
 <html>

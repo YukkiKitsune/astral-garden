@@ -11,7 +11,7 @@ shadow: off
 ```
 
 # Overview
-The girl, a lover of both storytelling and the mysteries of the lab, found a unique intersection of the two. She would transform her fantastical narratives into tangible realities, using her creations to heal those around her, infusing their suffering with a new vitality.
+Enslaved by a tyrannical king, a burning resentment against all monarchies consumed her. She dedicated her research to prolonging human life, a noble pursuit that ironically bound her to the service of a cruel ruler.
 # Pre-Ascension
 
 # Personal Life

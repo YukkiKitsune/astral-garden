@@ -44,7 +44,7 @@
 - 1 week = 6 days (your week length)
 - 3.5 weeks = 3.5 × 6 days = 21 days (Month)
 - 30 hour days, 12 hours of light, 18 hours of dark.
-# [[Astral/Deities\|Deities]]
+# [[Deities\|Deities]]
 - **Animdator** - God of life & Nature **LG**
 - **Handal**- Commerce & Trickery Goddess *Demon* **CN**
 - **Moros**- God of time and fate *Giant* **NE**

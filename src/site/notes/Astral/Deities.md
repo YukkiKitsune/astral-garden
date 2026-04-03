@@ -3,18 +3,18 @@
 ---
 
 # Primordials
-- [[Story/Gods/The Primordials/Alexander\|Story/Gods/The Primordials/Alexander]]
-- [[Story/Gods/The Primordials/Alma\|Alma]]
-- [[Story/Gods/The Primordials/Anastasia\|Anastasia]]
-- [[Story/Gods/The Primordials/Aurekthal\|Aurekthal]]
-- [[Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]
-- [[Story/Gods/The Primordials/Homura\|Homura]]
-- [[Story/Gods/The Primordials/Lera\|Lera]]
-- [[Story/Gods/The Primordials/Min\|Min]]
-- [[Story/Gods/The Primordials/Saar\|Saar]]
-- [[Story/Gods/The Primordials/Sophie\|Sophie]]
+- [[Story/Deities/The Primordials/Alexander\|Alexander]]
+- [[Story/Deities/The Primordials/Alma\|Alma]]
+- [[Story/Deities/The Primordials/Anastasia\|Anastasia]]
+- [[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]
+- [[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]
+- [[Story/Deities/The Primordials/Homura\|Homura]]
+- [[Story/Deities/The Primordials/Lera\|Lera]]
+- [[Story/Deities/The Primordials/Min\|Min]]
+- [[Story/Deities/The Primordials/Saar\|Saar]]
+- [[Story/Deities/The Primordials/Sophie\|Sophie]]
 # Gods
 
 ## Demi Gods
-[[Story/Gods/Demi Gods/Rachel\|Rachel]]
-[[Story/Gods/Demi Gods/Keres\|Keres]]
+[[Story/Deities/Their Divine/Demi Gods/Rachel\|Rachel]]
+[[Story/Deities/Their Divine/Demi Gods/Keres\|Keres]]

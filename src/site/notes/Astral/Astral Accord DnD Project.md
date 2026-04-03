@@ -62,6 +62,6 @@
 - **Hestia**- Forge, Strength, Tempest *Dwarf* **CG**
 - **Rachel** - Blood God
 - **Mortafinia** - Goddess of death & graves *Is an undead*
-	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]
+	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]
 #### Projects
-Also see [[Story/Gods/Their Divine/Deities Project\|Deities Project]]
+Also see [[Story/Deities/Their Divine/Deities Project\|Deities Project]]

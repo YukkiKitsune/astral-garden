@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astral/story/gods/the-primordials/alexander/","title":{"{Alexander}":null},"tags":["god","primordial","npc"],"dg-note-properties":{"title":{"{Alexander}":null},"tags":["god","primordial","npc"],"share_link":"https://share.note.sx/oak82k44#k01MYRbVJhLRfJLEW928PZSVBSfeH7gUR/FXaFx0R4w","share_updated":"2026-04-02T02:51:58-07:00"}}
+{"dg-publish":true,"permalink":"/astral/story/gods/the-primordials/alexander/","title":"Alexander","tags":["god","primordial","npc"],"dg-note-properties":{"title":"Alexander","tags":["god","primordial","npc"],"share_link":"https://share.note.sx/oak82k44#k01MYRbVJhLRfJLEW928PZSVBSfeH7gUR/FXaFx0R4w","share_updated":"2026-04-02T02:51:58-07:00"}}
 ---
 
 > [!Infobox] Test

@@ -7,20 +7,20 @@
 > # Alexander
 > <p style="text-align: center;">Personal Information</p>
 > 
-|Race||
-| --- | --- |
-|Skin Color||
-|Eye Color||
+>|Race||
+>| --- | --- |
+>|Skin Color||
+>|Eye Color||
 > <p style="text-align: center;">Relationships</p>
 > 
-|Father|[[Astral/Story/Gods/The Primordials/Aurekthal\|Aurekthal]]|
-| --- | --- |
-|Siblings|[[Astral/Story/Gods/The Primordials/Alma\|Alma]]<br>[[Astral/Story/Gods/The Primordials/Anastasia\|Anastasia]]<br>[[Astral/Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Astral/Story/Gods/The Primordials/Homura\|Homura]]<br>[[Astral/Story/Gods/The Primordials/Lera\|Lera]]<br>[[Astral/Story/Gods/The Primordials/Min\|Min]]<br>[[Astral/Story/Gods/The Primordials/Saar\|Saar]]<br>[[Astral/Story/Gods/The Primordials/Sophie\|Sophie]]|
+>|Father|[[Astral/Story/Gods/The Primordials/Aurekthal\|Aurekthal]]|
+>| --- | --- |
+>|Siblings|[[Astral/Story/Gods/The Primordials/Alma\|Alma]]<br>[[Astral/Story/Gods/The Primordials/Anastasia\|Anastasia]]<br>[[Astral/Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Astral/Story/Gods/The Primordials/Homura\|Homura]]<br>[[Astral/Story/Gods/The Primordials/Lera\|Lera]]<br>[[Astral/Story/Gods/The Primordials/Min\|Min]]<br>[[Astral/Story/Gods/The Primordials/Saar\|Saar]]<br>[[Astral/Story/Gods/The Primordials/Sophie\|Sophie]]|
 > <p style="text-align: center;">Important Symbols</p>
 > 
-|Birthstone|White Clear Quartz|
-| --- | --- |
-|Tarot Card|The Lovers|
+>|Birthstone|White Clear Quartz|
+>| --- | --- |
+>|Tarot Card|The Lovers|
 
 
 # Overview

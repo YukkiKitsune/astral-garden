@@ -17,7 +17,7 @@
 - Tawny - Farmer, Owlin Druid 
 - Goober - Entertainer, Fairy Bard 
 
-# [[Story/The World/Athbhreith\|Athbhreith]] (The World)
+# [[Story/Locations/Athbhreith\|Athbhreith]] (The World)
 ## Moons
 2 Moons
 ## Continents
@@ -31,8 +31,8 @@
 - Thalorim - A vast land with deep seas and rugged mountains, and few volcanoes
 - Solara - A central continent that holds trade and many different races, it is the center most land mass to the world. Is a wonderland of different biomes.
 ### Cities
-- [[Story/The World/RedSpire\|RedSpire]]
-- [[Story/The World/Emberfall Reach\|Emberfall Reach]]
+- [[Story/Locations/RedSpire\|RedSpire]]
+- [[Story/Locations/Emberfall Reach\|Emberfall Reach]]
 - Luminastra
 - Blackforge
 

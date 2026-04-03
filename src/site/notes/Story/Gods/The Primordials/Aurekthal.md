@@ -1,6 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/story/gods/the-primordials/aurekthal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/story/gods/the-primordials/aurekthal/","title":"Aurekthal","tags":["god","primordial","npc"],"dg-note-properties":{"title":"Aurekthal","tags":["god","primordial","npc"]}}
 ---
+
+> [!Infobox]
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Aurekthal
+> <p style="text-align: center;">Personal Information</p>
+> 
+>|Race||
+>| --- | --- |
+>|Skin Color||
+>|Eye Color||
+> <p style="text-align: center;">Relationships</p>
+> 
+>|Children|[[Story/Gods/The Primordials/Alma\|Alma]]<br>[[Story/Gods/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Gods/The Primordials/Homura\|Homura]]<br>[[Story/Gods/The Primordials/Lera\|Lera]]<br>[[Story/Gods/The Primordials/Min\|Min]]<br>[[Story/Gods/The Primordials/Saar\|Saar]]<br>[[Story/Gods/The Primordials/Sophie\|Sophie]]|
+>| --- | --- |
+>|||
+> <p style="text-align: center;">Important Symbols</p>
+> 
+>|Birthstone||
+>| --- | --- |
+>|Tarot Card||
+
+
+# Overview
 
 A once powerful and well known figure
 The reaper. 

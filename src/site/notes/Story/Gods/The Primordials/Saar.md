@@ -1,14 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/story/gods/the-primordials/saar/","title":{"{Alma}":null},"tags":["god","primordial","npc"],"dg-note-properties":{"title":{"{Alma}":null},"tags":["god","primordial","npc"]}}
+{"dg-publish":true,"permalink":"/story/gods/the-primordials/saar/","title":"Saar","tags":["god","primordial","npc"],"dg-note-properties":{"title":"Saar","tags":["god","primordial","npc"]}}
 ---
 
---- start-multi-column: ExampleRegion1
-```column-settings  
-number of columns: 2  
-largest column: left
-border: off
-shadow: off
-```
+> [!Infobox]
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Saar
+> <p style="text-align: center;">Personal Information</p>
+> 
+>|Race||
+>| --- | --- |
+>|Skin Color||
+>|Eye Color||
+> <p style="text-align: center;">Relationships</p>
+> 
+>|Father|[[Story/Gods/The Primordials/Aurekthal\|Aurekthal]]|
+>| --- | --- |
+>|Siblings|[[Story/Gods/The Primordials/Alma\|Alma]]<br>[[Story/Gods/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Gods/The Primordials/Homura\|Homura]]<br>[[Story/Gods/The Primordials/Lera\|Lera]]<br>[[Story/Gods/The Primordials/Min\|Min]]<br>[[Story/Gods/The Primordials/Saar\|Saar]]<br>[[Story/Gods/The Primordials/Sophie\|Sophie]]|
+> <p style="text-align: center;">Important Symbols</p>
+> 
+>|Birthstone| Purple Sugilite|
+>| --- | --- |
+>|Tarot Card||
+
 
 # Overview
 A prankster and pioneer from the frozen wastes, this animal tamer and scientist pioneered new creatures by blending beasts and monsters. Cast out and left to fend for herself, she found strength in the solitude, learning to thrive where others perished.
@@ -19,116 +32,4 @@ I was once a princess of a small kingdom and I used that to try and help life pr
 The village outcast of a remote mountain village. A troublemaker with a scientist's mind and a soft spot for the wild, she saw the monsters not as enemies, but as puzzles to be solved. Since her village was often under attack by monsters, she had always wondered if there was a way to make monsters more like the animals that roam the mountains forests. 
 # Personal Life
   Princess of the group, treated this was as she was the last to come around thusly treated as the baby of the group, a bit spoiled by them -  bratty
-Purple Sugilite
 
---- end-column ---
-
-<html>
-<div class="infobox">
-    <div class="heading">
-      <h2>Saar</h2>
-    </div>
-    <img src="https://i.pinimg.com/564x/cb/68/e5/cb68e5968779fa29d00eee3401caa0cc.jpg" class="infobox-img"
-      alt="infobox picture">
-    <div class="infobox-group">
-      <div class="heading">
-        <h3>Biographical Information</h3>
-      </div>
-      <div class="infobox-data">
-        <div class="infobox-datarow">
-          <p class="data-heading">Domain</p>
-          <ul class="data-content">
-	          <li>XXXXXX</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Relatives</p>
-          <ul class="data-content">
-	          <li>Father: <a href="Aurekthal.md" class="internal-link">Aurekthal</a></li>
-	          <li><a href="Lera.md" class="internal-link">Lera</a></li>
-	          <li><a href="Alma.md" class="internal-link">Alma</a></li>
-	          <li><a href="Gang.md" class="internal-link">Gang</a></li>
-	          <li><a href="Sophie.md" class="internal-link">Sophie</a></li>
-	          <li><a href="Anastasia.md" class="internal-link">Anastasia</a></li>
-	          <li><a href="Alexander.md" class="internal-link">Alexander</a></li>
-	          <li><a href="Min.md" class="internal-link">Min</a></li>
-	          <li><a href="Saar.md" class="internal-link">Saar</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="infobox-group">
-      <div class="heading">
-        <h3>Physical Description</h3>
-      </div>
-      <div class="infobox-data">
-	      <div class="infobox-datarow">
-          <p class="data-heading">Race</p>
-          <ul class="data-content">
-	          <li>Oni</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Hair Color</p>
-          <ul class="data-content">
-	          <li>Brown</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Eye Color</p>
-          <ul class="data-content">
-	          <li>Brown</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="infobox-group">
-      <div class="heading">
-        <h3>Social Information</h3>
-      </div>
-      <div class="infobox-data">
-	    <div class="infobox-datarow">
-          <p class="data-heading">Likes</p>
-          <ul class="data-content">
-	          <li>XXXX</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Occupation</p>
-          <ul class="data-content">
-	          <li>Fisher</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Family</p>
-          <ul class="data-content">
-	          <li>Royal House of Anhalt</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="infobox-group">
-      <div class="heading">
-        <h3>Important Symbols</h3>
-      </div>
-      <div class="infobox-data">
-        <div class="infobox-datarow">
-          <p class="data-heading">Birthstone</p>
-          <ul class="data-content">
-	          <li>Purple Sugilite</li>
-          </ul>
-        </div>
-      </div>
-      <div class="infobox-data">
-        <div class="infobox-datarow">
-          <p class="data-heading">Color</p>
-          <ul class="data-content">
-	          <li>Purple</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</html>
-
---- end-multi-column

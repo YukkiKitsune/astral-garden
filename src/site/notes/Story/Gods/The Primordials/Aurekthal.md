@@ -22,9 +22,7 @@
 >| --- | --- |
 >|Tarot Card||
 
-
-# Overview
-
+# Summary
 A once powerful and well known figure
 The reaper. 
 A strange and powerful being who is able to connect places together that otherwise could not, can also connect souls to such places. 

@@ -22,6 +22,5 @@
 >| --- | --- |
 >|Tarot Card||
 
-
-# Overview
+# Summary
 The girl was passionate about tinkering, finding solace in the intricate mechanics of the world. However, her coworkers constantly frustrated her, pushing her to the brink. Vowing to rely only on herself, she cherished the company of others, yet craved the quiet of her own space.

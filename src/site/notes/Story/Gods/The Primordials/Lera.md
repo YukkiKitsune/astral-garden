@@ -22,8 +22,7 @@
 >| --- | --- |
 >|Tarot Card||
 
-
-# Overview
+# Summary
 The girl, a lover of both storytelling and the mysteries of the lab, found a unique intersection of the two. She would transform her fantastical narratives into tangible realities, using her creations to heal those around her, infusing their suffering with a new vitality.
 # Pre-Ascension
 Like all dragons, she was abandoned by her parents once she learned to fly. She was never told who her mother or father were—they had long since left her behind. Though this was customary in dragon culture, she never cared about her origins; all she wanted was a way to find happiness.

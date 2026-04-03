@@ -22,6 +22,5 @@
 >| --- | --- |
 >|Tarot Card||
 
-
-# Overview
+# Summary
 Enslaved by a tyrannical king, a burning resentment against all monarchies consumed her. She dedicated her research to prolonging human life, a noble pursuit that ironically bound her to the service of a cruel ruler.

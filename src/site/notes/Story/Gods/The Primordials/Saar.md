@@ -22,8 +22,7 @@
 >| --- | --- |
 >|Tarot Card||
 
-
-# Overview
+# Summary
 A prankster and pioneer from the frozen wastes, this animal tamer and scientist pioneered new creatures by blending beasts and monsters. Cast out and left to fend for herself, she found strength in the solitude, learning to thrive where others perished.
 # Pre-Ascension
 I was once a princess of a small kingdom and I used that to try and help life prosper, I had seen how much everything suffered from our hands and how different we were from the rest of the world, these monsters slaughtered for being different then us but in reality who was the one that was different? I saw hope in our survival from these monsters as I saw only animal like instincts from them. I didn't know if I could save our kingdom from the upcoming days where theses "monsters" grew larger and larger in numbers. I had hopped that if I could create something to help even out how strong they were then we could live to see another year. But once I started to work on the beasts I was mocked and scorned saying that I was wrong for what I was doing. But I think if I could just figure out how to make us stronger then every would be fine, If only we could grow to be more like the creatures we slaughtered then maybe they would see as one and the same. So I got to work and found strangers small stones that seemed to circulate their vital organs. These stones seemed to have been made up of condensed energy and seemed to match the size of the creatures it was in

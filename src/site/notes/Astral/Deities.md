@@ -16,5 +16,5 @@
 # Gods
 
 ## Demi Gods
-[[Story/Gods/Demi Gods/Rachel the Progenitor\|Rachel the Progenitor]]
+[[Story/Gods/Demi Gods/Rachel\|Rachel]]
 [[Story/Gods/Demi Gods/Keres\|Keres]]

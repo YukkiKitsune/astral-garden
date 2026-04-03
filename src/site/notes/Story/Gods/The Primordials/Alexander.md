@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/story/gods/the-primordials/alexander/","title":"Alexander","tags":["god","primordial","npc"],"dg-note-properties":{"title":"Alexander","tags":["god","primordial","npc"],"share_link":"https://share.note.sx/oak82k44#k01MYRbVJhLRfJLEW928PZSVBSfeH7gUR/FXaFx0R4w","share_updated":"2026-04-02T02:51:58-07:00"}}
 ---
 
-> [!Infobox] Test
+> [!Infobox]
 > ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Alexander
 > <p style="text-align: center;">Personal Information</p>
@@ -22,6 +22,5 @@
 >| --- | --- |
 >|Tarot Card|The Lovers|
 
-
-# Overview
+# Summary
 Consumed by his quest to preserve history, he vanished into its depths, swallowed by the very past he'd dedicated his life to exploring.

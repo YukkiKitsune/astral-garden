@@ -22,7 +22,7 @@
 >| --- | --- |
 >|Tarot Card||
 
-# Overview
+# Summary
 A celebrated apothecary and crude scientist. A master of the crafts, betrayed by the kingdom she cherished, she dedicated herself to curing those it had abandoned. With her mastery of the arcane arts, she fought to rescue those subjected to the kingdom's cruel experiments.
 # Pre-Ascension
 An alchemist from an old, long-forgotten world, She is usually the core of every plan that goes on inside the new world, yet he is very quiet. She used to be an alchemist for a war-hungry kingdom that wanted to control the world through its own power, but they ended up causing the world to fall.

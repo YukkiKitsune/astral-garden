@@ -21,7 +21,8 @@
 >|Birthstone| Crimson Ruby|
 >| --- | --- |
 >|Tarot Card||
-# Overview
+
+# Summary
 A soldier for hire, he fights for progress. Known as "The Wandering Drunk," he chose the Fool card when the group selected tarot cards, as he only saw himself as a drunken mess, living to serve in the next war.
 # Early Life
 I nearly drowned in an ocean of blood caused by my own deeds, I was the one who chose this path as it was suppose to help us progress but why does it feel like I'm only making the wrong choices, why does it feel like every breathe I take is one where I'm drowning in my own crimes towards my kind. I thought just helping us progress would save the ones I could not, but instead of I just keep falling back into this cycle unable to break free. I was a warrior fighting for progress towards our own evolution that had grown stagnate. 

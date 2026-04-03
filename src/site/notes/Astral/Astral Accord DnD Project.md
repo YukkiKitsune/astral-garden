@@ -17,7 +17,7 @@
 - Tawny - Farmer, Owlin Druid 
 - Goober - Entertainer, Fairy Bard 
 
-# [[Astral/Story/The World/Athbhreith\|Athbhreith]] (The World)
+# [[Story/The World/Athbhreith\|Athbhreith]] (The World)
 ## Moons
 2 Moons
 ## Continents
@@ -31,8 +31,8 @@
 - Thalorim - A vast land with deep seas and rugged mountains, and few volcanoes
 - Solara - A central continent that holds trade and many different races, it is the center most land mass to the world. Is a wonderland of different biomes.
 ### Cities
-- [[Astral/Story/The World/RedSpire\|RedSpire]]
-- [[Astral/Story/The World/Emberfall Reach\|Emberfall Reach]]
+- [[Story/The World/RedSpire\|RedSpire]]
+- [[Story/The World/Emberfall Reach\|Emberfall Reach]]
 - Luminastra
 - Blackforge
 
@@ -62,6 +62,6 @@
 - **Hestia**- Forge, Strength, Tempest *Dwarf* **CG**
 - **Rachel** - Blood God
 - **Mortafinia** - Goddess of death & graves *Is an undead*
-	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Astral/Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]
+	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Gods/The Primordials/Gang (Kang)\|Gang (Kang)]]
 #### Projects
-Also see [[Astral/Story/Gods/Their Divine/Deities Project\|Deities Project]]
+Also see [[Story/Gods/Their Divine/Deities Project\|Deities Project]]

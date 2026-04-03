@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/story/gods/demi-gods/rachel/","title":"Rachel","tags":["god","npc"],"dg-note-properties":{"title":"Rachel","tags":["god","npc"]}}
+---
+
+> [!Infobox]
+> ![rachel.png](/img/user/Images/rachel.png)
+> # Rachel the Progenitor
+> <p style="text-align: center;">Personal Information</p>
+> 
+>|Domain| Blood|
+>| --- | --- |
+>|Race| Progenitor Vampire|
+>|Alignment||
+> <p style="text-align: center;">Relationships</p>
+> 
+>|Racial Connection| Vampires|
+>| --- | --- |
+>|||
+> <p style="text-align: center;">Important Symbols</p>
+> 
+>|Birthstone||
+>| --- | --- |
+>|Tarot Card||
+
+# Summary

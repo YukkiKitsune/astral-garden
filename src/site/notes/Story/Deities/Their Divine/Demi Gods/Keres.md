@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/keres/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/keres/","tags":["demi-god","npc"],"dg-note-properties":{"tags":["demi-god","npc"]}}
 ---
 
 ### Actual Story

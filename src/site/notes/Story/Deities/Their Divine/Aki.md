@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/their-divine/aki/","title":"Aki","tags":["god","demi-god","npc"],"dg-note-properties":{"title":"Aki","tags":["god","demi-god","npc"]}}
+{"dg-publish":true,"permalink":"/story/deities/their-divine/aki/","title":"Aki","tags":["god","npc"],"dg-note-properties":{"title":"Aki","tags":["god","npc"]}}
 ---
 
 > [!Infobox]

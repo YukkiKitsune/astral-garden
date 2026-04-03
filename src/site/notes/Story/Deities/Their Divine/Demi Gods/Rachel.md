@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/rachel/","title":"Rachel","tags":["god","npc"],"dg-note-properties":{"title":"Rachel","tags":["god","npc"]}}
+{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/rachel/","title":"Rachel","tags":["npc","demi-god"],"dg-note-properties":{"title":"Rachel","tags":["npc","demi-god"]}}
 ---
 
 > [!Infobox]

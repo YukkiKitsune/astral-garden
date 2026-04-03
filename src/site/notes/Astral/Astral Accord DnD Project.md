@@ -52,7 +52,7 @@
 - **Ordin**- Light & Order Twin Gods **LN**
 - **Umbră**- Shadow & Twilight Twin Gods *Yokai* **CN**
 - **Diana**- Moon & Hunt & Night
-- **Aki**- Harvest & Festus *Fae* **LE**
+- **[[Story/Deities/Their Divine/Aki\|Aki]]**- Harvest & Festus *Fae* **LE**
 - **Rhyfel**- War & Zeal & Inquisition 
 - **Wëssen**- Knowledge & Mind 
 - **Sigfried**- Keeper, Community 
@@ -60,7 +60,7 @@
 - **Eirene**- Peace, Purification *Elves* **N**
 - **Grimhildr**-  Solidarity & Arcana *Dragons* **CN**
 - **Hestia**- Forge, Strength, Tempest *Dwarf* **CG**
-- **Rachel** - Blood God
+- **[[Story/Deities/Their Divine/Demi Gods/Rachel\|Rachel]]** - Blood God
 - **Mortafinia** - Goddess of death & graves *Is an undead*
 	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]
 #### Projects

@@ -1,9 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/keres/","tags":["demi-god","npc"],"dg-note-properties":{"tags":["demi-god","npc"]}}
+{"dg-publish":true,"permalink":"/story/deities/their-divine/demi-gods/keres/","title":"Keres","tags":["npc","demi-god"],"dg-note-properties":{"title":"Keres","tags":["npc","demi-god"]}}
 ---
 
-### Actual Story
+> [!Infobox]
+> ![rachel.png](/img/user/Images/rachel.png)
+> # Rachel the Progenitor
+> <p style="text-align: center;">Personal Information</p>
+> 
+>|Domain| |
+>| --- | --- |
+>|Race| Human|
+>|Alignment||
+> <p style="text-align: center;">Relationships</p>
+> 
+>|Racial Connection| |
+>| --- | --- |
+>|||
+> <p style="text-align: center;">Important Symbols</p>
+> 
+>|Birthstone||
+>| --- | --- |
+>|Tarot Card||
 
+### Past
 After being away from home for several years, she found the door lying busted on the ground, the heavy smell of blood thick in the air.
 
 "Mom?! Dad?!" Her face paled, and her heart skipped a beat.
@@ -36,3 +55,4 @@ Not even a single word came out; she remained there crying for some time before 
 
 
 Chapter break -
+### Present

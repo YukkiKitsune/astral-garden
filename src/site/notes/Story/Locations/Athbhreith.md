@@ -17,8 +17,8 @@ Athbhreith is the land the characters of The World after the End inhabit. It con
 - Thalorim - A vast land with deep seas and rugged mountains, and few volcanoes
 - Solara - A central continent that holds trade and many different races, it is the center most land mass to the world. Is a wonderland of different biomes.
 # Cities
-- [[Story/Locations/RedSpire\|RedSpire]]
-- [[Story/Locations/Emberfall Reach\|Emberfall Reach]]
+- [[Story/Locations/Cities/RedSpire\|RedSpire]]
+- [[Story/Locations/Cities/Emberfall Reach\|Emberfall Reach]]
 - Luminastra
 - Blackforge
 

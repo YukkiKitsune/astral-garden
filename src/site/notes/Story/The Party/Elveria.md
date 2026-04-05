@@ -25,8 +25,8 @@
 >|Pronunciation||
 >|Place of birth||
 >|Date of birth| 11/11|
->|Height||
->|Weight||
+>|Height| 6'1"|
+>|Weight| 210lbs|
 >|Gender| Female|
 >
 # Backstory

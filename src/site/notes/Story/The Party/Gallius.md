@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/the-party/gallius/","title":"Gallius","tags":["player","alive"],"dg-note-properties":{"title":"Gallius","tags":["player","alive"]}}
+{"dg-publish":true,"permalink":"/story/the-party/gallius/","title":"Gallius The Horse The Myth The Legend","tags":["player","alive"],"dg-note-properties":{"title":"Gallius The Horse The Myth The Legend","tags":["player","alive"]}}
 ---
 
 > [!Infobox]
@@ -9,25 +9,25 @@
 > 
 >|Alignment||
 >| --- | --- |
->|Background||
->|Class||
->|Race||
->|Language(s)||
+>|Background| Reveler|
+>|Class| Barbarian|
+>|Race| Centaur|
+>|Language(s)| Common, Elvish, Abyssal|
 > <p style="text-align: center;">Affiliations</p>
 > 
->|Deity [[Story/Deities/Their Divine/Aki\|Aki]]|
+>|Deity| Aki|
 >| --- | --- |
 >|People||
 > <p style="text-align: center;">Basic Info</p>
 > 
->|Status||
+>|Status| Alive|
 >| --- | --- |
 >|Pronunciation||
->|Place of birth||
->|Date of birth||
->|Height||
->|Weight||
->|Gender||
+>|Place of birth| Feywilds|
+>|Date of birth| 6/17|
+>|Height| 6'9"|
+>|Weight| 260lbs|
+>|Gender| Male|
 >
 # Backstory
 Among the winding groves of the Feywild—where moonlight drips like silver through endless leaves and time bends like a reed in the wind—Gallius was born beneath the ancient boughs of a centaur clan sworn to one of the court’s lesser royal houses. The Feywild is a place where beauty and terror live side by side, and Gallius learned early that strength alone was not enough to survive its shifting politics. Honor, loyalty, and bargains carried more weight than steel.

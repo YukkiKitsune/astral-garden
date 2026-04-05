@@ -3,16 +3,16 @@
 ---
 
 ## Alive Characters
-- Alex Collwell - Noble, Human Apothecary 
-- Azrael - Solider, Half Elf Artificer 
-- Elveria - Gambler, Elf Fighter
-- Gale - Criminal, Tabaxi Rouge 
-- Gallius - Reveler, Centaur Barbarian 
-- Vray - Inheritor, Dhampir Wizard
+- [[Story/The Party/Alex Collwell\|Alex Collwell]] - Noble, Human Apothecary 
+- [[Story/The Party/Azrael\|Azrael]] - Solider, Half Elf Artificer 
+- [[Story/The Party/Elveria\|Elveria]] - Gambler, Elf Fighter
+- [[Story/The Party/Gale\|Gale]] - Criminal, Tabaxi Rouge 
+- [[Story/The Party/Gallius\|Gallius]] - Reveler, Centaur Barbarian 
+- [[Story/The Party/Vray\|Vray]] - Inheritor, Dhampir Wizard
 ## (Dead?) Characters
-- John - Acolyte, Human Warlock
-- Valerius - Farmer, Human Paladin
-- Wisteria - Gambler, Harengon Warlock 
+- [[Story/The Party/Old Members/John\|John]] - Acolyte, Human Warlock
+- [[Story/The Party/Old Members/Valerius A\|Valerius A]] - Farmer, Human Paladin
+- [[Story/The Party/Old Members/Wisteria\|Wisteria]] - Gambler, Harengon Warlock 
 ## Unused Characters
 - Tawny - Farmer, Owlin Druid 
 - Goober - Entertainer, Fairy Bard 
@@ -29,7 +29,7 @@ One of the worlds of this story.
 - **[[Story/Deities/Their Divine/Diana\|Diana]]**- Moon & Hunt & Night
 - **[[Story/Deities/Their Divine/Aki\|Aki]]**- Harvest & Festus *Fae* **LE**
 - **[[Story/Deities/Their Divine/Rhyfel\|Rhyfel]]**- War & Zeal & Inquisition 
-- **[[Story/Deities/Their Divine/Wëssen\|Wëssen]]**- Knowledge & Mind 
+- **[[Story/Deities/Their Divine/Wëssen\|Wëssen]]**- Knowledge & Mind *Spirits*
 - **[[Story/Deities/Their Divine/Sigfried\|Sigfried]]**- Keeper, Community 
 - **[[Story/Deities/Their Divine/Asclepius\|Asclepius]]** - Aspiration, Ambition *Beastmen* **CG**
 - **[[Story/Deities/Their Divine/Eirene\|Eirene]]**- Peace, Purification *Elves* **N**
@@ -37,6 +37,7 @@ One of the worlds of this story.
 - **[[Story/Deities/Their Divine/Hestia\|Hestia]]**- Forge, Strength, Tempest *Dwarf* **CG**
 - **[[Story/Deities/Their Divine/Demi Gods/Rachel\|Rachel]]** - Blood God
 - **[[Story/Deities/Their Divine/Mortafinia\|Mortafinia]]** - Goddess of death & graves *Is an undead*
+- **[[Story/Deities/Their Divine/Pestilence\|Pestilence]]** - God of Pestilence
 	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]
 #### Projects
 Also see [[Story/Deities Project\|Deities Project]]

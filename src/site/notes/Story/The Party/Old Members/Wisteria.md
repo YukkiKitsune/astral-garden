@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/the-party/old-members/wisteria/","title":"temp","tags":["player","dead?"],"dg-note-properties":{"title":"temp","tags":["player","dead?"]}}
+{"dg-publish":true,"permalink":"/story/the-party/old-members/wisteria/","title":"Wisteria the dumb bunny","tags":["player","dead?"],"dg-note-properties":{"title":"Wisteria the dumb bunny","tags":["player","dead?"]}}
 ---
 
 > [!Infobox]

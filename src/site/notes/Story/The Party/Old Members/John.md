@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/the-party/old-members/john/","title":"temp","tags":["player","dead?"],"dg-note-properties":{"title":"temp","tags":["player","dead?"]}}
+{"dg-publish":true,"permalink":"/story/the-party/old-members/john/","title":"John Warlock","tags":["player","dead?"],"dg-note-properties":{"title":"John Warlock","tags":["player","dead?"]}}
 ---
 
 > [!Infobox]
@@ -28,7 +28,7 @@
 >|Place of birth|Luminastra|
 >|Date of birth||
 >|Height|5'7"|
->|Weight|160 lb|
+>|Weight|160lbs|
 >|Gender|Male|
 >
 # Backstory

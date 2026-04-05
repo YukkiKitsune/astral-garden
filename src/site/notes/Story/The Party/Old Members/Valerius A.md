@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/the-party/old-members/valerius-a/","title":"temp","tags":["player","dead?"],"dg-note-properties":{"title":"temp","tags":["player","dead?"]}}
+{"dg-publish":true,"permalink":"/story/the-party/old-members/valerius-a/","title":"Valerius The Obessed","tags":["player","dead?"],"dg-note-properties":{"title":"Valerius The Obessed","tags":["player","dead?"]}}
 ---
 
 > [!Infobox]

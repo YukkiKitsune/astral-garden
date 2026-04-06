@@ -22,9 +22,8 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| Luminastra|
->|Date of birth| |
+>|Date of birth| 4/18|
 >|Height| 5'4"|
 >|Weight| 154lbs|
 >|Gender| Male|

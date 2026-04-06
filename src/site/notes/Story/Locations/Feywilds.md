@@ -16,6 +16,7 @@ Some of the creations of old had slipped through the newly forming fey wilds and
 Faction 1 - Seelie Court 
 
 Faction 2 - Spider Court
+Grandmother Moru, Beast of the Veiled Pass
 
 Faction 3 - Mythical Beast
 

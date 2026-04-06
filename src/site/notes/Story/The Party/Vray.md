@@ -3,7 +3,7 @@
 ---
 
 > [!Infobox]
-> ![Vray.png](/img/user/Images/Players/Vray.png)
+> ![Vray.jpg](/img/user/Images/Players/Vray.jpg)
 > # 
 > <p style="text-align: center;">Character Info</p>
 > 
@@ -22,7 +22,6 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| Luminastra|
 >|Date of birth| 7/11|
 >|Height|5"8|

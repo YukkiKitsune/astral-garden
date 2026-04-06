@@ -22,7 +22,6 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| Feywilds|
 >|Date of birth| 6/17|
 >|Height| 6'9"|

@@ -22,7 +22,6 @@
 > 
 >|Status| Dead?|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| Redspire|
 >|Date of birth| 07/07|
 >|Height| 3'4|

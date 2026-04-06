@@ -22,7 +22,6 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| RedSpire|
 >|Date of birth| 9/18|
 >|Height| 3'2|

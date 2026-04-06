@@ -22,11 +22,10 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
->|Place of birth||
+>|Place of birth| Eleven Homeland|
 >|Date of birth| 11/11|
 >|Height| 6'1"|
->|Weight| 210lbs|
+>|Weight|210lbs|
 >|Gender| Female|
 >
 # Backstory

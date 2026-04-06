@@ -22,7 +22,6 @@
 > 
 >|Status| Alive|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth| Luminastra|
 >|Date of birth| 8/13|
 >|Height| 5'11"|

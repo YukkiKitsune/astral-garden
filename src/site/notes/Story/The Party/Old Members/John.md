@@ -24,9 +24,8 @@
 > 
 >|Status|Dead?|
 >| --- | --- |
->|Pronunciation||
 >|Place of birth|Luminastra|
->|Date of birth||
+>|Date of birth|10/4|
 >|Height|5'7"|
 >|Weight|160lbs|
 >|Gender|Male|

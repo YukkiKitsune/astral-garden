@@ -3,20 +3,20 @@
 ---
 
 > [!Infobox]
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Moros
-> <p style="text-align: center;">Personal Information</p>
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Personal Information
 > 
 >|Domain| Time and Fate|
 >| --- | --- |
 >|Race| Giant|
 >|Alignment| Neutral Evil|
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Creator||
 >| --- | --- |
 >|Siblings||
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Tarot Card||
 >| --- | --- |

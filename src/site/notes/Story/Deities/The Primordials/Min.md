@@ -3,24 +3,24 @@
 ---
 
 > [!Infobox]
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Min
-> <p style="text-align: center;">Personal Information</p>
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Personal Information
 > 
 >|Race||
 >| --- | --- |
 >|Skin Color||
 >|Eye Color||
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Father|[[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]|
 >| --- | --- |
 >|Siblings|[[Story/Deities/The Primordials/Alexander\|Alexander]]<br>[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Homura\|Homura]]<br>[[Story/Deities/The Primordials/Lera\|Lera]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Birthstone| Brown Tigers Eye|
 >| --- | --- |
->|Tarot Card||
+>|||
 
 # Summary
 A celebrated apothecary and crude scientist. A master of the crafts, betrayed by the kingdom she cherished, she dedicated herself to curing those it had abandoned. With her mastery of the arcane arts, she fought to rescue those subjected to the kingdom's cruel experiments.

@@ -3,9 +3,9 @@
 ---
 
 > [!Infobox]
+> # Azreal
 > ![Azreal.jpg](/img/user/Images/Players/Azreal.jpg)
-> # 
-> <p style="text-align: center;">Character Info</p>
+> # Character Info
 > 
 >|Alignment||
 >| --- | --- |
@@ -13,12 +13,12 @@
 >|Class| Artificer|
 >|Race| Half-Elf|
 >|Language(s)||
-> <p style="text-align: center;">Affiliations</p>
+> # Affiliations
 > 
 >|Deity|X|
 >| --- | --- |
 >|People||
-> <p style="text-align: center;">Basic Info</p>
+> # Basic Info
 > 
 >|Status| Alive|
 >| --- | --- |

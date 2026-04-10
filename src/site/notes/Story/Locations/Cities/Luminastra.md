@@ -5,7 +5,7 @@
 > [!Infobox]
 > 
 > # Emberfall Reach
-> <p style="text-align: center;">General Information</p>
+> # General Information
 > 
 >|Continent||
 >| --- | --- |
@@ -16,7 +16,7 @@
 >|Population Size||
 >|Development Level||
 >|Leader||
-> <p style="text-align: center;">Politics</p>
+> # Politics
 >
 >|Allies| |
 >| --- | --- |

@@ -5,13 +5,18 @@
 A place that existed prior to the creation of the universe, although it existed before everything it wasn't exactly connected to this universe until lyra had accidently connected her worlds fey wilds to the newly created one. 
 The two fey wilds had merged together and created a chaos inside that started to corrupts everything around it as it was something mixed with new and old that was not planned for, but lyra's abilities made the world so. 
 
-The fey wilds is a plane of existence that contained the first connections to the old worlds. Though it is sealed within the fey wilds it is unable to be accessed as [[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]had intervened in it once he realized the existence of it. He thought of it being to dangerous so quickly had created [[Story/Deities/Their Divine/Aki\|Aki]] to manage over the plane and stop any connections from outside this universe until the time was right.
+The fey wilds is a plane of existence that contained the first connections to the old worlds. Though it is sealed within the fey wilds it is unable to be accessed as [[Story/Deities/The Primordials/Aurekthal\|Aurekthal]] had intervened in it once he realized the existence of it. He thought of it being to dangerous so quickly had created [[Story/Deities/Their Divine/Aki\|Aki]] to manage over the plane and stop any connections from outside this universe until the time was right.
 Some of the creations of old had slipped through the newly forming fey wilds and thusly some old figures such as the Seelie and unseelie courts had appeared. Though they were kept in check by Aki, they still have their own plans at bringing this new place completely under their control. 
 
 
 # Locations
 
+# Time
+
+Time in the fey wilds is constantly fluctuating. Time is not a constant. 
+
 # Races
+
 ## Factions
 Faction 1 - Seelie Court 
 

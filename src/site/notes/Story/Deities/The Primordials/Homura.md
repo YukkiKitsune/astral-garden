@@ -3,24 +3,24 @@
 ---
 
 > [!Infobox]
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Homura
-> <p style="text-align: center;">Personal Information</p>
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Personal Information
 > 
 >|Race||
 >| --- | --- |
 >|Skin Color||
 >|Eye Color||
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Father|[[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]|
 >| --- | --- |
 >|Siblings|[[Story/Deities/The Primordials/Alexander\|Alexander]]<br>[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Lera\|Lera]]<br>[[Story/Deities/The Primordials/Min\|Min]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Birthstone| Crimson Ruby|
 >| --- | --- |
->|Tarot Card||
+>|||
 
 # Summary
 A soldier for hire, he fights for progress. Known as "The Wandering Drunk," he chose the Fool card when the group selected tarot cards, as he only saw himself as a drunken mess, living to serve in the next war.

@@ -3,9 +3,9 @@
 ---
 
 > [!Infobox]
+> # Gale
 > ![Gale.jpg](/img/user/Images/Players/Gale.jpg)
-> # 
-> <p style="text-align: center;">Character Info</p>
+> # Character Info
 > 
 >|Alignment||
 >| --- | --- |
@@ -13,12 +13,12 @@
 >|Class| Rouge|
 >|Race| Tabaxi|
 >|Language(s)| Common|
-> <p style="text-align: center;">Affiliations</p>
+> # Affiliations
 > 
 >|Deity|X|
 >| --- | --- |
 >|People||
-> <p style="text-align: center;">Basic Info</p>
+> # Basic Info
 > 
 >|Status| Alive|
 >| --- | --- |

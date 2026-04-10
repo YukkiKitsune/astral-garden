@@ -3,9 +3,9 @@
 ---
 
 > [!Infobox]
+> # Gallius
 > ![Gallius.png](/img/user/Images/Players/Gallius.png)
-> # 
-> <p style="text-align: center;">Character Info</p>
+> # Character Info
 > 
 >|Alignment||
 >| --- | --- |
@@ -13,12 +13,12 @@
 >|Class| Barbarian|
 >|Race| Centaur|
 >|Language(s)| Common, Elvish, Abyssal|
-> <p style="text-align: center;">Affiliations</p>
+> # Affiliations
 > 
 >|Deity| Aki|
 >| --- | --- |
 >|People||
-> <p style="text-align: center;">Basic Info</p>
+> # Basic Info
 > 
 >|Status| Alive|
 >| --- | --- |

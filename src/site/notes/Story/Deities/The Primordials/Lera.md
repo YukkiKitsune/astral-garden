@@ -3,24 +3,24 @@
 ---
 
 > [!Infobox]
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Lera
-> <p style="text-align: center;">Personal Information</p>
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Personal Information
 > 
 >|Race||
 >| --- | --- |
 >|Skin Color||
 >|Eye Color||
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Father|[[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]|
 >| --- | --- |
 >|Siblings|[[Story/Deities/The Primordials/Alexander\|Alexander]]<br>[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Homura\|Homura]]<br>[[Story/Deities/The Primordials/Min\|Min]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Birthstone| Black Onyx|
 >| --- | --- |
->|Tarot Card||
+>|||
 
 # Summary
 The girl, a lover of both storytelling and the mysteries of the lab, found a unique intersection of the two. She would transform her fantastical narratives into tangible realities, using her creations to heal those around her, infusing their suffering with a new vitality.

@@ -3,9 +3,9 @@
 ---
 
 > [!Infobox]
+> # Vray
 > ![Vray.jpg](/img/user/Images/Players/Vray.jpg)
-> # 
-> <p style="text-align: center;">Character Info</p>
+> # Character Info
 > 
 >|Alignment||
 >| --- | --- |
@@ -13,12 +13,12 @@
 >|Class| Wizard|
 >|Race| Human|
 >|Language(s)| Common, Elvish, Abyssal, Celestial, Deep Speech, Infernal|
-> <p style="text-align: center;">Affiliations</p>
+> # Affiliations
 > 
 >|Deity| Rachel|
 >| --- | --- |
 >|People||
-> <p style="text-align: center;">Basic Info</p>
+> # Basic Info
 > 
 >|Status| Alive|
 >| --- | --- |

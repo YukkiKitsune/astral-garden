@@ -3,20 +3,20 @@
 ---
 
 > [!Infobox]
-> ![rachel.png](/img/user/Images/rachel.png)
 > # Rachel the Progenitor
-> <p style="text-align: center;">Personal Information</p>
+> ![rachel.png](/img/user/Images/rachel.png)
+> # Personal Information
 > 
 >|Domain| Blood|
 >| --- | --- |
 >|Race| Progenitor Vampire|
 >|Alignment||
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Racial Connection| Vampires|
 >| --- | --- |
 >|||
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Birthstone||
 >| --- | --- |

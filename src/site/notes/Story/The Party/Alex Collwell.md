@@ -3,9 +3,9 @@
 ---
 
 > [!Infobox]
+> # Alex Collwell
 > ![Alex Collwell.png](/img/user/Images/Players/Alex%20Collwell.png)
-> # 
-> <p style="text-align: center;">Character Info</p>
+> # Character Info
 > 
 >|Alignment||
 >| --- | --- |
@@ -13,12 +13,12 @@
 >|Class| Apothecary|
 >|Race| Human|
 >|Language(s)||
-> <p style="text-align: center;">Affiliations</p>
+> # Affiliations
 > 
 >|Deity| Heimsendir|
 >| --- | --- |
 >|Relations| Cult of Heimsendir|
-> <p style="text-align: center;">Basic Info</p>
+> # Basic Info
 > 
 >|Status| Alive|
 >| --- | --- |

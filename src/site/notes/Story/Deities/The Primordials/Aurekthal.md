@@ -3,24 +3,24 @@
 ---
 
 > [!Infobox]
+>  # Aurekthal
 > ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
-> # Aurekthal
-> <p style="text-align: center;">Personal Information</p>
+> # Personal Information
 > 
 >|Race||
 >| --- | --- |
 >|Skin Color||
 >|Eye Color||
-> <p style="text-align: center;">Relationships</p>
+> # Relationships
 > 
 >|Children|[[Story/Deities/The Primordials/Alexander\|Alexander]]<br>[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Homura\|Homura]]<br>[[Story/Deities/The Primordials/Lera\|Lera]]<br>[[Story/Deities/The Primordials/Min\|Min]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
 >| --- | --- |
 >|||
-> <p style="text-align: center;">Important Symbols</p>
+> # Important Symbols
 > 
 >|Birthstone||
 >| --- | --- |
->|Tarot Card||
+>|||
 
 # Summary
 A once powerful and well known figure

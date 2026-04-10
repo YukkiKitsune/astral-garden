@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/their-divine/hestia/","title":"Hestia","tags":["god","npc"],"dg-note-properties":{"title":"Hestia","tags":["god","npc"]}}
+{"dg-publish":true,"permalink":"/story/deities/their-divine/pestilence/","title":"Pestilence","tags":["god","npc"],"dg-note-properties":{"title":"Pestilence","tags":["god","npc"]}}
 ---
 
 > [!Infobox]

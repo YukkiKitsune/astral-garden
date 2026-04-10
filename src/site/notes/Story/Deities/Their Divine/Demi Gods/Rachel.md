@@ -4,43 +4,42 @@
 
 > [!Infobox]
 > # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> ![rachel.png](/img/user/Images/rachel.png)
 > # Personal Information
 > 
 >|||
 >| --- | --- |
->|Deity Rank||
+>|Deity Rank| demi|
 >|adjective||
 >|aspects||
->|status||
->|primordial||
+>|status| Active|
 >|pantheon||
->|gender||
+>|gender| Fem|
 >|died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race||
->|Sex||
+>|Race| Human|
+>|Sex| Female|
 >|Homes||
 >
 > # Relationships
 > 
 >|||
 >| --- | --- |
->|Creator|[[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]|
->|Siblings|[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Homura\|Homura]]<br>[[Story/Deities/The Primordials/Lera\|Lera]]<br>[[Story/Deities/The Primordials/Min\|Min]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
+>|Creator||
+>|Siblings||
 >
 > # Important Symbols 
 > 
 >|||
 >| --- | --- |
 >|animals||
->|plants||
+>|plants|| 
 >|monsters||
 >|minerals | Clear Quartz|
->|colors| White |
+>|colors| Red |
 >|misc manifestations||
 >
 ># Mortal Realm
@@ -57,7 +56,7 @@
 >|Alignment||
 >|Symbol||
 >|Portfolio||
->|Domains||
+>|Domains| Blood|
 >|Worshipers||
 
 

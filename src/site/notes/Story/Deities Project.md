@@ -55,3 +55,6 @@ Everyone will have an animal familiar, everyone will have wings of any kind.
 
 
 Ayla: The goddess of the moon who was split into three personalities, she works alone and despises the sun god. The original Ayla was a kind women who wore white clothes, she wore small dresses with the symbols for Knowledge and magic on her dress. She has long black hair that flowed in the wind and with a pair of white burning wings that showed the moonlight. The two sets of wings connected at her upper back and lower back.))
+
+
+Unkown if any other god ascended

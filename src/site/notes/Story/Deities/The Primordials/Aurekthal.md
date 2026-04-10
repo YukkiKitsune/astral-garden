@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/deities/the-primordials/aurekthal/","title":"Aurekthal","tags":["god","primordial","npc"],"dg-note-properties":{"title":"Aurekthal","tags":["god","primordial","npc"]}}
+{"dg-publish":true,"permalink":"/story/deities/the-primordials/aurekthal/","title":"Aurekthal","tags":["god","Overdeity","npc"],"dg-note-properties":{"title":"Aurekthal","tags":["god","Overdeity","npc"]}}
 ---
 
 > [!Infobox]
@@ -9,21 +9,20 @@
 > 
 >|||
 >| --- | --- |
->|Deity Rank||
+>|Deity Rank| Overdeity|
 >|adjective||
 >|aspects||
->|status||
->|primordial||
->|pantheon||
->|gender||
+>|status| Unknown|
+>|pantheon| Astral Accord|
+>|gender| Fem & Masc|
 >|died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
 >|Race||
->|Sex||
->|Homes||
+>|Sex| Male|
+>|Homes| Unknown|
 >
 > # Relationships
 > 

@@ -21,16 +21,16 @@
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race||
->|Sex||
->|Homes||
+>|Race| |
+>|Sex| |
+>|Homes| |
 >
 > # Relationships
 > 
 >|||
 >| --- | --- |
->|Creator|[[Story/Deities/The Primordials/Aurekthal\|Aurekthal]]|
->|Siblings|[[Story/Deities/The Primordials/Alma\|Alma]]<br>[[Story/Deities/The Primordials/Anastasia\|Anastasia]]<br>[[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]<br>[[Story/Deities/The Primordials/Homura\|Homura]]<br>[[Story/Deities/The Primordials/Lera\|Lera]]<br>[[Story/Deities/The Primordials/Min\|Min]]<br>[[Story/Deities/The Primordials/Saar\|Saar]]<br>[[Story/Deities/The Primordials/Sophie\|Sophie]]|
+>|Creator||
+>|Siblings||
 >
 > # Important Symbols 
 > 
@@ -39,8 +39,8 @@
 >|animals||
 >|plants||
 >|monsters||
->|minerals | Clear Quartz|
->|colors| White |
+>|minerals ||
+>|colors||
 >|misc manifestations||
 >
 ># Mortal Realm
@@ -56,10 +56,12 @@
 >| --- | --- |
 >|Alignment||
 >|Symbol||
->|Portfolio||
->|Domains||
->|Worshipers||
+>|Portfolio| Demons, Merchants|
+>|Domains| Commerce & Trickery Goddess|
+>|Worshipers| Demons, Merchants|
 
+
+Ascended to a god
 
 # Description
 # Personality
@@ -68,7 +70,6 @@
 # Divine Realm
 # Activities
 # History
-Consumed by his quest to preserve history, he vanished into its depths, swallowed by the very past he'd dedicated his life to exploring.
 # Rumors & Legends
 # Notes
 # Gallery

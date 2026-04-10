@@ -9,21 +9,20 @@
 > 
 >|||
 >| --- | --- |
->|Deity Rank||
+>|Deity Rank| Primordial|
 >|adjective||
 >|aspects||
 >|status||
->|primordial||
->|pantheon||
->|gender||
+>|pantheon| Astral Accord|
+>|gender| Fem|
 >|died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race||
->|Sex||
->|Homes||
+>|Race| Beastkin|
+>|Sex| Female|
+>|Homes| Unknown World|
 >
 > # Relationships
 > 

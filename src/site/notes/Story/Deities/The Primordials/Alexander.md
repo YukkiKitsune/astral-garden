@@ -9,21 +9,20 @@
 > 
 >|||
 >| --- | --- |
->|Deity Rank||
+>|Deity Rank| Primordial|
 >|adjective||
 >|aspects||
 >|status||
->|primordial||
->|pantheon||
->|gender||
+>|pantheon| Astral Accord|
+>|gender| Masc|
 >|died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race||
->|Sex||
->|Homes||
+>|Race| Oni|
+>|Sex| Male|
+>|Homes| Unknown Planet|
 >
 > # Relationships
 > 
@@ -40,7 +39,7 @@
 >|plants||
 >|monsters||
 >|minerals | Clear Quartz|
->|colors| White |
+>|colors| White|
 >|misc manifestations||
 >
 ># Mortal Realm

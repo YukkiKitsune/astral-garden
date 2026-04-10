@@ -9,21 +9,20 @@
 > 
 >|||
 >| --- | --- |
->|Deity Rank||
+>|Deity Rank| Primordial|
 >|adjective||
 >|aspects||
 >|status||
->|primordial||
->|pantheon||
->|gender||
+>|pantheon| Astral Accord|
+>|gender| Masc|
 >|died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race||
->|Sex||
->|Homes||
+>|Race| Elf|
+>|Sex| Male|
+>|Homes| Unknown World|
 >
 > # Relationships
 > 

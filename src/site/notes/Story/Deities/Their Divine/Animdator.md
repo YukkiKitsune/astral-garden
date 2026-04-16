@@ -4,7 +4,7 @@
 
 > [!Infobox]
 > # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Personal Information
 > 
 >|||
@@ -49,8 +49,8 @@
 >| --- | --- |
 >|Alignment||
 >|Symbol||
->|Portfolio||
->|Domains| |
+>|Portfolio| LG|
+>|Domains| life & Nature|
 >|Worshipers||
 
 

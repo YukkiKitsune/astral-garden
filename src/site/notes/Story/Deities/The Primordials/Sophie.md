@@ -3,8 +3,8 @@
 ---
 
 > [!Infobox]
-> # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Sophie
+> ![Sophie.jpg](/img/user/Images/Gods/Sophie.jpg)
 > # Personal Information
 > 
 >|||
@@ -61,13 +61,14 @@
 
 
 # Description
+Enslaved by a tyrannical king, a burning resentment against all monarchies consumed her. She dedicated her research to prolonging human life, a noble pursuit that ironically bound her to the service of a cruel ruler.
 # Personality
 # Abilities
 # Possessions
 # Divine Realm
 # Activities
 # History
-Enslaved by a tyrannical king, a burning resentment against all monarchies consumed her. She dedicated her research to prolonging human life, a noble pursuit that ironically bound her to the service of a cruel ruler.
+A once wise princess now abandoned by her very people branded as a witch and sinner for her unique ways of helping and curing her people, now a slave to her father turned tyrannical. Forced to spend her days locked up inside the castle when all she wanted to do was help her sick and feeble people. She had such a big heart for them for it to all be torn out and stepped on treated worse then the very citizens she used to treat. 
 # Rumors & Legends
 # Notes
 # Gallery

@@ -4,7 +4,7 @@
 
 > [!Infobox]
 > # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> ![Keres.webp](/img/user/Images/Gods/Keres.webp)
 > # Personal Information
 > 
 >|||
@@ -39,8 +39,8 @@
 >|animals||
 >|plants||
 >|monsters||
->|minerals | Clear Quartz|
->|colors| White |
+>|minerals | |
+>|colors| |
 >|misc manifestations||
 >
 ># Mortal Realm
@@ -54,10 +54,10 @@
 >
 >|||
 >| --- | --- |
->|Alignment||
+>|Alignment| CG|
 >|Symbol||
->|Portfolio||
->|Domains||
+>|Portfolio| BEASTMEN|
+>|Domains| Aspiration, Ambition|
 >|Worshipers||
 
 

@@ -3,8 +3,8 @@
 ---
 
 > [!Infobox]
-> # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Homura
+> ![Homura.jpg](/img/user/Images/Gods/Homura.jpg)
 > # Personal Information
 > 
 >|||
@@ -20,7 +20,7 @@
 ># Apotheosis
 >|||
 >| --- | --- |
->|Race| Half Dwarf Half Human|
+>|Race| Oni|
 >|Sex| Male|
 >|Homes| Unknown World|
 >

@@ -3,8 +3,8 @@
 ---
 
 > [!Infobox]
-> # Name
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/Gods/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+> # Alma
+> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Personal Information
 > 
 >|||
@@ -61,13 +61,14 @@
 
 
 # Description
+The girl was passionate about tinkering, finding solace in the intricate mechanics of the world. However, her coworkers constantly frustrated her, pushing her to the brink. Vowing to rely only on herself, she cherished the company of others, yet craved the quiet of her own space.
 # Personality
 # Abilities
 # Possessions
 # Divine Realm
 # Activities
 # History
-The girl was passionate about tinkering, finding solace in the intricate mechanics of the world. However, her coworkers constantly frustrated her, pushing her to the brink. Vowing to rely only on herself, she cherished the company of others, yet craved the quiet of her own space.
+
 # Rumors & Legends
 # Notes
 # Gallery

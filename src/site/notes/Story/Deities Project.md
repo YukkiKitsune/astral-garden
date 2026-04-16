@@ -4,23 +4,24 @@
 
 # Gods of the realms
 - **Animdator** - God of life & Nature **LG**
-- **Handal**- Commerce & Trickery Goddess *Demon* **CN**
-- **Moros**- God of time and fate *Giant* **NE**
-- **Heimsendir**- Apocalypse *Human* **CE** (Dead)
-- **Ordin**- Light & Order Twin Gods **LN**
-- **Umbră**- Shadow & Twilight Twin Gods *Yokai* **CN**
-- **Diana**- Moon & Hunt & Night
-- **Aki**- Harvest & Festus *Fae* **LE**
-- **Rhyfel**- War & Zeal & Inquisition 
-- **Wëssen**- Knowledge & Mind 
-- **Sigfried**- Keeper, Community 
 - **Asclepius** - Aspiration, Ambition *Beastmen* **CG**
+- **Aki**- Harvest & Festus *Fae* **LE**
+- **Diana**- Moon & Hunt & Night
 - **Eirene**- Peace, Purification *Elves* **N**
 - **Grimhildr**-  Solidarity & Arcana *Dragons* **CN**
+- **Handal**- Commerce & Trickery Goddess *Demon* **CN**
+- **Heimsendir**- Apocalypse *Human* **CE** (Dead)
 - **Hestia**- Forge, Strength, Tempest *Dwarf* **CG**
-- **Rachel** - Blood God
+- **Moros**- God of time and fate *Giant* **NE**
 - **Mortafinia** - Goddess of death & graves *Is an undead*
 	- Loves mortals but hates having to see mortals to the eternal end. She is the daughter of [[Story/Deities/The Primordials/Gang (Kang)\|Gang (Kang)]]
+- **Ordin**- Light & Order Twin Gods **LN**
+- **Rhyfel**- War & Zeal & Inquisition 
+- **Sigfried**- Keeper, Community
+- **Umbră**- Shadow & Twilight Twin Gods *Yokai* **CN**
+- **Wëssen**- Knowledge & Mind 
+**Rachel** - Blood God
+
 
 ### Old Deities Project To Incorporate
 War, victory , hunt, festivals (fall) ((Male. Could base off Ullr in Norse Mythology))

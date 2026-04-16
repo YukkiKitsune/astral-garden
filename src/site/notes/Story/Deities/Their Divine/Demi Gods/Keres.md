@@ -3,7 +3,7 @@
 ---
 
 > [!Infobox]
-> # Name
+> # Keres
 > ![Keres.webp](/img/user/Images/Gods/Keres.webp)
 > # Personal Information
 > 

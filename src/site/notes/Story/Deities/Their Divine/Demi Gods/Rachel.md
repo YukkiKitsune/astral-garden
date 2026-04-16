@@ -3,7 +3,7 @@
 ---
 
 > [!Infobox]
-> # Name
+> # Rachel
 > ![rachel.png](/img/user/Images/Gods/rachel.png)
 > # Personal Information
 > 

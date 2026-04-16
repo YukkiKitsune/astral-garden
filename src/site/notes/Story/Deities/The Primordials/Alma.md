@@ -4,7 +4,7 @@
 
 > [!Infobox]
 > # Alma
-> ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/00b5dbd6c4562f1bed93e15d315007a4.jpg)
+>![Alma.jpg](/img/user/Images/Gods/Alma.jpg)
 > # Personal Information
 > 
 >|||

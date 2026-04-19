@@ -3,20 +3,20 @@
 ---
 
 > [!Infobox]
-> # Name
+> # Umbră
 > ![00b5dbd6c4562f1bed93e15d315007a4.jpg](/img/user/Images/00b5dbd6c4562f1bed93e15d315007a4.jpg)
 > # Personal Information
 > 
 >|||
 >| --- | --- |
 >|Deity Rank||
->|adjective||
->|aspects||
->|status||
->|primordial||
->|pantheon||
->|gender||
->|died||
+>|Adjective||
+>|Aspects||
+>|Status||
+>|Primordial||
+>|Pantheon||
+>|Gender||
+>|Died||
 >
 > # Relationships
 > 
@@ -29,29 +29,29 @@
 > 
 >|||
 >| --- | --- |
->|animals||
->|plants||
->|monsters||
->|minerals ||
->|colors||
->|misc manifestations||
+>|Animals||
+>|Plants||
+>|Monsters||
+>|Minerals ||
+>|Colors||
+>|Misc Manifestations||
 >
 ># Mortal Realm
 >
 >|||
 >| --- | --- |
->|church||
->|temples||
+>|Church||
+>|Temples||
 >
 ># Game Stats
 >
 >|||
 >| --- | --- |
->|Alignment||
+>|Alignment| CN|
 >|Symbol||
 >|Portfolio||
->|Domains| |
->|Worshipers||
+>|Domains| Shadow, Twilight|
+>|Worshipers| Yokai|
 
 # Description
 # Personality

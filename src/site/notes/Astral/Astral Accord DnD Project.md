@@ -17,7 +17,7 @@
 - Tawny - Farmer, Owlin Druid 
 - Goober - Entertainer, Fairy Bard 
 
-# [[Story/Locations/Athbhreith\|Athbhreith]] (The World)
+# [[Story/Locations/Rinascita\|Rinascita]] (The World)
 One of the worlds of this story. 
 # [[Deities\|Deities]]
 -- **[[Story/Deities/Their Divine/Animdator\|Animdator]]** - God of life & Nature **LG**

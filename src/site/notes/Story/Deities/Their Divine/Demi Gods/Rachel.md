@@ -10,12 +10,12 @@
 >|||
 >| --- | --- |
 >|Deity Rank| demi|
->|adjective||
->|aspects||
->|status| Active|
->|pantheon||
->|gender| Fem|
->|died||
+>|Adjective||
+>|Aspects||
+>|Status| Active|
+>|Pantheon||
+>|Gender| Fem|
+>|Died||
 >
 ># Apotheosis
 >|||
@@ -35,19 +35,19 @@
 > 
 >|||
 >| --- | --- |
->|animals||
->|plants|| 
->|monsters||
->|minerals | Clear Quartz|
->|colors| Red |
->|misc manifestations||
+>|Animals||
+>|Plants|| 
+>|Monsters||
+>|Minerals | Clear Quartz|
+>|Colors| Red |
+>|Misc Manifestations||
 >
 ># Mortal Realm
 >
 >|||
 >| --- | --- |
->|church||
->|temples||
+>|Church||
+>|Temples||
 >
 ># Game Stats
 >

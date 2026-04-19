@@ -10,19 +10,19 @@
 >|||
 >| --- | --- |
 >|Deity Rank| Primordial|
->|adjective||
->|aspects||
->|status||
->|pantheon| Astral Accord|
->|gender| Masc|
->|died||
+>|Adjective||
+>|Aspects||
+>|Status||
+>|Pantheon| Astral Accord|
+>|Gender| Masc|
+>|Died||
 >
 ># Apotheosis
 >|||
 >| --- | --- |
 >|Race| Dwarf|
 >|Sex| Male|
->|Homes| Unknown Planet|
+>|Homes| Unknown World|
 >
 > # Relationships
 > 
@@ -35,19 +35,19 @@
 > 
 >|||
 >| --- | --- |
->|animals||
->|plants||
->|monsters||
->|minerals | Clear Quartz|
->|colors| White|
->|misc manifestations||
+>|Animals||
+>|Plants||
+>|Monsters||
+>|Minerals | Clear Quartz|
+>|Colors| White|
+>|Misc Manifestations||
 >
 ># Mortal Realm
 >
 >|||
 >| --- | --- |
->|church||
->|temples||
+>|Church||
+>|Temples||
 >
 ># Game Stats
 >
@@ -61,13 +61,13 @@
 
 
 # Description
+Consumed by his quest to preserve history, he vanished into its depths, swallowed by the very past he'd dedicated his life to exploring.
 # Personality
 # Abilities
 # Possessions
 # Divine Realm
 # Activities
 # History
-Consumed by his quest to preserve history, he vanished into its depths, swallowed by the very past he'd dedicated his life to exploring.
 # Rumors & Legends
 # Notes
 # Gallery

@@ -29,3 +29,4 @@
 >|Gender| Male|
 >
 # Backstory
+A young nobleman of the Collwell house who grew up with education from a human supremacist cult. His father holds a somewhat influential position in this cult and uses his sway over politics to further the cults goals. His upbringing has left him both racist against non-humans and classist against those without noble status. A real piece of work. Studies disease and biology in an attempt to rid humanity of its weakness to pandemics, partially in service of the cult and partially to satiate his curiosity. Fascinated by the connections between the Fay energies and the mutation of life, he left the capital with his sworn bodyguard [[Story/The Party/Elveria\|Elveria]] to further his research.

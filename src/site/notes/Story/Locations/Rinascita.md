@@ -2,34 +2,35 @@
 {"dg-publish":true,"permalink":"/story/locations/rinascita/","dg-note-properties":{}}
 ---
 
+
 # Summary
 Athbhreith is the land the characters of The World after the End inhabit. It consists of 9 continents.
 # Moons
 2 Moons Umbra and Diana
 # Continents
-##### Virelia
+##### [[Virelia\|Virelia]]
 Loads of forests, mountains and vast plains (think like Americas)
-##### Borealis
+##### [[Borealis\|Borealis]]
 Primarily cold continent that shares land with the demon continent. Has some non cold biomes like Mountains and frozen deserts 
-##### Karnathis
+##### [[Karnathis\|Karnathis]]
 The Demon Continent, a place filled with Jungles, Valleys, Lakes and Volcanos
-##### Frostholm
+##### [[Frostholm\|Frostholm]]
 North most Continent, Has Fjords, Ice fields, frozen lakes, Vast frozen over canyons
-##### Cindermoor
+##### [[Cindermoor\|Cindermoor]]
 Often mistaken as an island but its just mostly hidden behind a veil, the continent is super hot and has lots of deserts and humid forests
-##### Mythralis
+##### [[Mythralis\|Mythralis]]
 Has no civilization but is full of legendary monsters and beasts, Has very active rainforests, Swamps, and Valleys
-##### Vastara
+##### [[Vastara\|Vastara]]
 A continent with little civilization but holds tons of Badlands, and Ravines. Little trees grow in this land
-##### Thalorim 
+##### [[Thalorim\|Thalorim]]
 A vast land with deep seas and rugged mountains, and few volcanoes
-##### Solara
+##### [[Solara\|Solara]]
 A central continent that holds trade and many different races, it is the center most land mass to the world. Is a wonderland of different biomes.
 # Major Cities
 - [[Story/Locations/Cities/RedSpire\|RedSpire]]
 - [[Story/Locations/Cities/Emberfall Reach\|Emberfall Reach]]
-- Luminastra
-- Blackforge
+- [[Story/Locations/Cities/Luminastra\|Luminastra]]
+- [[Story/Locations/Cities/Blackforge\|Blackforge]]
 
 # Chronometry
 - Moon cycle length: 21 days

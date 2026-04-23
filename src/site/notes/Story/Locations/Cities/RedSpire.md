@@ -7,7 +7,7 @@
 > # RedSpire
 > <p style="text-align: center;">General Information</p>
 > 
->|Continent||
+>|Continent|[[Story/Locations/Continents/Virelia\|Virelia]]|
 >| --- | --- |
 >|Country||
 >|Government||

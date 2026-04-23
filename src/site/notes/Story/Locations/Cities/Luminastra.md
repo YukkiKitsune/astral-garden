@@ -7,7 +7,7 @@
 > # Emberfall Reach
 > # General Information
 > 
->|Continent||
+>|Continent|[[Story/Locations/Continents/Virelia\|Virelia]]|
 >| --- | --- |
 >|Country||
 >|Government||
@@ -23,3 +23,9 @@
 >|Enemies||
 >|Major Powers||
 # Summary
+
+# Military 
+Military is broken up into several armies, one called the dusk regiment, they are the soliders who fight for the empire, they do all the tasks in secret.
+The emerald regiment who fights any and all monsters or enemies that invade. 
+The sapphire regiment who fight at the cost and keep the monsters from invading.
+The 

@@ -22,7 +22,7 @@
 >|||
 >| --- | --- |
 >|Race| Human|
->|Sex| Male|
+>|Sex| Fem|
 >|Homes| Earth|
 >
 > # Relationships
@@ -56,8 +56,8 @@
 >| --- | --- |
 >|Alignment| CG|
 >|Symbol||
->|Portfolio| BEASTMEN|
->|Domains| Aspiration, Ambition|
+>|Portfolio||
+>|Domains||
 >|Worshipers||
 
 

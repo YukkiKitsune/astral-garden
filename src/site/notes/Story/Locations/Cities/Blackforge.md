@@ -6,7 +6,7 @@
 > # Emberfall Reach
 > # General Information
 > 
->|Continent||
+>|Continent| [[Story/Locations/Continents/Virelia\|Virelia]]|
 >| --- | --- |
 >|Country||
 >|Government||

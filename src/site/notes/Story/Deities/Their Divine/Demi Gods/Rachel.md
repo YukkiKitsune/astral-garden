@@ -67,7 +67,6 @@
 # Divine Realm
 # Activities
 # History
-Consumed by his quest to preserve history, he vanished into its depths, swallowed by the very past he'd dedicated his life to exploring.
 # Rumors & Legends
 # Notes
 # Gallery

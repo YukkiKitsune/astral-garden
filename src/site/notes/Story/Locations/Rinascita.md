@@ -8,11 +8,11 @@ Athbhreith is the land the characters of The World after the End inhabit. It con
 # Moons
 2 Moons Umbra and Diana
 # Continents
-##### [[Virelia\|Virelia]]
+##### [[Story/Locations/Continents/Virelia\|Virelia]]
 Loads of forests, mountains and vast plains (think like Americas)
-##### [[Borealis\|Borealis]]
+##### [[Story/Locations/Continents/Borealis\|Borealis]]
 Primarily cold continent that shares land with the demon continent. Has some non cold biomes like Mountains and frozen deserts 
-##### [[Karnathis\|Karnathis]]
+##### [[Story/Locations/Continents/Karnathis\|Karnathis]]
 The Demon Continent, a place filled with Jungles, Valleys, Lakes and Volcanos
 ##### [[Frostholm\|Frostholm]]
 North most Continent, Has Fjords, Ice fields, frozen lakes, Vast frozen over canyons

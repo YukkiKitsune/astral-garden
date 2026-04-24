@@ -3,76 +3,75 @@
 ---
 
 ```timeline
++ -1,314,440
++ [[Rinascita]] created
++
+
++ -1,187,346
++ First Signs of Life
++
+
++ -875,329
++ First Evidence of Dragons
++
+
++ -874,956
++ Demons are first recorded
++
+
++ -874,951
++ First Evidence of Spirits and Yokai
++
+
++ -874,943
++ Giants are first recorded
++
+
++ -874,931
++ Dwarfs are first recorded
++
+
++ -874,911
++ Elves are first recorded
++
+
++ -382,763
++ Feywilds connects to [[Rinascita]]
++
+
++ -160,545
++ Humans are first recorded
++
+
 + 0
-+ [[Rinascita]] Created
-+
-
-+ -12752
-+ Non sentient life is created
-+
-
-+
-+ Dragons are created
-+
-
-+
-+ Spirits & Yokai are created
-+
-
-+
 + A yokai befriends a dragon and starts to create a map and timeline of the world
 +
 
-+
-+ Demons are created
-+
-
-+
-+ Giants are created
-+
-
-+
-+ Dwarfs are created
-+
-
-+
-+ Elves are created
-+
-
-+ 
-+ Feywilds Born
-+
-
-+
-+ Humans are created
++ 47
++ [[Rachel]] is born 
 +
 
 + 47
-+ [[Rachel]] Born 
-+
-
-+ 47
-+ [[Keres]]Comes from the tower
++ [[Keres]] emerges from the tower
 +
 
 + 72
-+ [[Rachel]] Becomes the first ever vampire
++ [[Rachel]] becomes the first ever vampire
 +
 
 + 2057
-+ [[Asclepius]] Created from the beastmen
++ [[Asclepius]] created, modeled after beastmen
 +
 
-+ 3708
++ 4173
++ First human civilization destroyed
++
+
++ 15,354
 + The Party forms
 +
 
-+ 3708
++ 15,354
 + 3 Party members die
 +
-
-+
-+ The tower appears
-+
-
 ```

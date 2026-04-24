@@ -29,3 +29,4 @@
 >|Gender| Female|
 >
 # Backstory
+Elviria was born in the elven city and grew up there for a few years up until she was a teen and went exploring the other cities and towns with her father. Once she reached the age of 19 she went off on her own adventuring to get stronger and more knowledgeable about the world. However, she stumbled upon a gambling den one day and out of curiosity she got deep into gambling, due to this she injured substantial amount of debt but didn't really mind because she didn't have anything to spend on. So while paying off her debt she adventures looking for strong enemies to fight and conquer for fun.
